@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "onFocusChange",
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+    "paths": {
+        "55qQ3hiHROqYM1Lfm8BTDe": [
+            "icon-rank1",
+            "cc.SpriteFrame",
+            1
+        ],
+        "88I72MWvlJvZA/eJg8DCy8": [
+            "icon-rank1",
+            "cc.Texture2D"
+        ],
+        "8aag4NvYFFqJ9+3TvH5xVu": [
+            "icon-rank2",
+            "cc.Texture2D"
+        ],
+        "b1HuMPm6xHOKSIn9YLS+Od": [
+            "icon-rank2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2eo1nPGH9G8qze+NV5K3Vk": [
+            "icon-rank3",
+            "cc.Texture2D"
+        ],
+        "adgFnSbjlEg57QBygY6cjB": [
+            "icon-rank3",
+            "cc.SpriteFrame",
+            1
+        ],
+        "abuVTTa6xDUYNqSctBc6IE": [
+            "icon-rank4",
+            "cc.Texture2D"
+        ],
+        "c5D2PLkkNAH4S4cuUOJiqx": [
+            "icon-rank4",
+            "cc.SpriteFrame",
+            1
+        ],
+        "07a8C2fDND8orYvkrsblyh": [
+            "icon-rank5",
+            "cc.Texture2D"
+        ],
+        "35i9b95gFIU5gRonZJK8cZ": [
+            "icon-rank5",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "07a8C2fDND8orYvkrsblyh",
+        "2eo1nPGH9G8qze+NV5K3Vk",
+        "35i9b95gFIU5gRonZJK8cZ",
+        "55qQ3hiHROqYM1Lfm8BTDe",
+        "88I72MWvlJvZA/eJg8DCy8",
+        "8aag4NvYFFqJ9+3TvH5xVu",
+        "abuVTTa6xDUYNqSctBc6IE",
+        "adgFnSbjlEg57QBygY6cjB",
+        "b1HuMPm6xHOKSIn9YLS+Od",
+        "c5D2PLkkNAH4S4cuUOJiqx"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {
+        "02de892d0": [
+            "07a8C2fDND8orYvkrsblyh",
+            "2eo1nPGH9G8qze+NV5K3Vk",
+            "88I72MWvlJvZA/eJg8DCy8",
+            "8aag4NvYFFqJ9+3TvH5xVu",
+            "abuVTTa6xDUYNqSctBc6IE"
+        ]
+    },
+    "name": "res",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

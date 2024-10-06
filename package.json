@@ -1,7 +1,8 @@
 {
   "name": "creator-engine-2.4.13",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "cocos2d-js.js",
+  "typings": "creator.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
